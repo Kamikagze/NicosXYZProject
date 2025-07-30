@@ -97,9 +97,11 @@
     <Compile Include="Assets\Scripts\View\VFXView.cs" />
     <Compile Include="Assets\Scripts\Controller\IPlayerUnitChoosingListener.cs" />
     <Compile Include="Assets\Scripts\Utilities\Extensions.cs" />
+    <Compile Include="Assets\Scripts\UnitBrains\Pathfinding\Plates.cs" />
     <Compile Include="Assets\Scripts\Utilities\ServiceLocator.cs" />
     <Compile Include="Assets\Scripts\Model\Runtime\Projectiles\ArchToTileProjectile.cs" />
     <Compile Include="Assets\Scripts\UnitBrains\Pathfinding\DummyUnitPath.cs" />
+    <Compile Include="Assets\Scripts\UnitBrains\Pathfinding\NewUnitPath.cs" />
     <Compile Include="Assets\Scripts\Controller\RootController.cs" />
     <Compile Include="Assets\Scripts\Model\Runtime\Unit.cs" />
     <Compile Include="Assets\Scripts\Model\IReadOnlyRuntimeModel.cs" />

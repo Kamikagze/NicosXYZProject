@@ -39,10 +39,12 @@ namespace UnitBrains
             var target = runtimeModel.RoMap.Bases[
                 IsPlayerUnitBrain ? RuntimeModel.BotPlayerId : RuntimeModel.PlayerId];
 
-            _activePath = new DummyUnitPath(runtimeModel, unit.Pos, target);
+            _activePath = new NewUnitPath(runtimeModel, unit.Pos, target);
+            //Debug.Log(IHaveActivePass(_activePath));
             return _activePath.GetNextStepFrom(unit.Pos);
         }
 
+        private bool IHaveActivePass(BaseUnitPath baseUnitPath) => baseUnitPath != null;
         public List<BaseProjectile> GetProjectiles()
         {
             List<BaseProjectile> result = new ();

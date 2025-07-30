@@ -19,6 +19,9 @@ namespace Model.Runtime
         private readonly bool[,] _map;
         private readonly List<Vector2Int> _bases = new();
 
+
+        
+
         public Map(bool[,] map, int playersCount)
         {
             _map = map;

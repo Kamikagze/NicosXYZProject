@@ -3,24 +3,56 @@
   "WorkspaceRootPath": "E:\\Repozitorii\\NicosXYZProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{65F85C29-2F48-5B64-0860-B0BCF917D258}|Root.csproj|e:\\repozitorii\\nicosxyzproject\\assets\\scripts\\unitbrains\\pathfinding\\plates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F85C29-2F48-5B64-0860-B0BCF917D258}|Root.csproj|solutionrelative:assets\\scripts\\unitbrains\\pathfinding\\plates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F85C29-2F48-5B64-0860-B0BCF917D258}|Root.csproj|E:\\Repozitorii\\NicosXYZProject\\assets\\scripts\\unitbrains\\pathfinding\\dummyunitpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F85C29-2F48-5B64-0860-B0BCF917D258}|Root.csproj|solutionrelative:assets\\scripts\\unitbrains\\pathfinding\\dummyunitpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F85C29-2F48-5B64-0860-B0BCF917D258}|Root.csproj|E:\\Repozitorii\\NicosXYZProject\\assets\\scripts\\unitbrains\\baseunitbrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F85C29-2F48-5B64-0860-B0BCF917D258}|Root.csproj|solutionrelative:assets\\scripts\\unitbrains\\baseunitbrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F85C29-2F48-5B64-0860-B0BCF917D258}|Root.csproj|E:\\Repozitorii\\NicosXYZProject\\assets\\scripts\\unitbrains\\pathfinding\\baseunitpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F85C29-2F48-5B64-0860-B0BCF917D258}|Root.csproj|solutionrelative:assets\\scripts\\unitbrains\\pathfinding\\baseunitpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F85C29-2F48-5B64-0860-B0BCF917D258}|Root.csproj|E:\\Repozitorii\\NicosXYZProject\\assets\\scripts\\unitbrains\\pathfinding\\newunitpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F85C29-2F48-5B64-0860-B0BCF917D258}|Root.csproj|solutionrelative:assets\\scripts\\unitbrains\\pathfinding\\newunitpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F85C29-2F48-5B64-0860-B0BCF917D258}|Root.csproj|E:\\Repozitorii\\NicosXYZProject\\assets\\scripts\\model\\config\\unitconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F85C29-2F48-5B64-0860-B0BCF917D258}|Root.csproj|solutionrelative:assets\\scripts\\model\\config\\unitconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F85C29-2F48-5B64-0860-B0BCF917D258}|Root.csproj|E:\\Repozitorii\\NicosXYZProject\\assets\\scripts\\utilities\\timeutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F85C29-2F48-5B64-0860-B0BCF917D258}|Root.csproj|solutionrelative:assets\\scripts\\utilities\\timeutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F85C29-2F48-5B64-0860-B0BCF917D258}|Root.csproj|E:\\Repozitorii\\NicosXYZProject\\assets\\scripts\\unitbrains\\player\\secondunitbrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F85C29-2F48-5B64-0860-B0BCF917D258}|Root.csproj|solutionrelative:assets\\scripts\\unitbrains\\player\\secondunitbrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F85C29-2F48-5B64-0860-B0BCF917D258}|Root.csproj|E:\\Repozitorii\\NicosXYZProject\\assets\\scripts\\model\\runtime\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F85C29-2F48-5B64-0860-B0BCF917D258}|Root.csproj|solutionrelative:assets\\scripts\\model\\runtime\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F85C29-2F48-5B64-0860-B0BCF917D258}|Root.csproj|e:\\repozitorii\\nicosxyzproject\\assets\\scripts\\model\\config\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F85C29-2F48-5B64-0860-B0BCF917D258}|Root.csproj|solutionrelative:assets\\scripts\\model\\config\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{65F85C29-2F48-5B64-0860-B0BCF917D258}|Root.csproj|e:\\repozitorii\\nicosxyzproject\\assets\\scripts\\unitbrains\\player\\thirdunitbrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65F85C29-2F48-5B64-0860-B0BCF917D258}|Root.csproj|solutionrelative:assets\\scripts\\unitbrains\\player\\thirdunitbrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65F85C29-2F48-5B64-0860-B0BCF917D258}|Root.csproj|e:\\repozitorii\\nicosxyzproject\\assets\\scripts\\unitbrains\\baseunitbrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65F85C29-2F48-5B64-0860-B0BCF917D258}|Root.csproj|solutionrelative:assets\\scripts\\unitbrains\\baseunitbrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65F85C29-2F48-5B64-0860-B0BCF917D258}|Root.csproj|E:\\Repozitorii\\NicosXYZProject\\assets\\scripts\\model\\runtime\\readonly\\ireadonlyunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F85C29-2F48-5B64-0860-B0BCF917D258}|Root.csproj|solutionrelative:assets\\scripts\\model\\runtime\\readonly\\ireadonlyunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65F85C29-2F48-5B64-0860-B0BCF917D258}|Root.csproj|e:\\repozitorii\\nicosxyzproject\\assets\\scripts\\unitbrains\\player\\secondunitbrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65F85C29-2F48-5B64-0860-B0BCF917D258}|Root.csproj|solutionrelative:assets\\scripts\\unitbrains\\player\\secondunitbrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65F85C29-2F48-5B64-0860-B0BCF917D258}|Root.csproj|e:\\repozitorii\\nicosxyzproject\\assets\\scripts\\model\\config\\unitconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65F85C29-2F48-5B64-0860-B0BCF917D258}|Root.csproj|solutionrelative:assets\\scripts\\model\\config\\unitconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65F85C29-2F48-5B64-0860-B0BCF917D258}|Root.csproj|e:\\repozitorii\\nicosxyzproject\\assets\\scripts\\model\\runtime\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65F85C29-2F48-5B64-0860-B0BCF917D258}|Root.csproj|solutionrelative:assets\\scripts\\model\\runtime\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65F85C29-2F48-5B64-0860-B0BCF917D258}|Root.csproj|E:\\Repozitorii\\NicosXYZProject\\assets\\scripts\\model\\runtime\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F85C29-2F48-5B64-0860-B0BCF917D258}|Root.csproj|solutionrelative:assets\\scripts\\model\\runtime\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,19 +67,124 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "NewUnitPath.cs",
+              "DocumentMoniker": "E:\\Repozitorii\\NicosXYZProject\\Assets\\Scripts\\UnitBrains\\Pathfinding\\NewUnitPath.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UnitBrains\\Pathfinding\\NewUnitPath.cs",
+              "ToolTip": "E:\\Repozitorii\\NicosXYZProject\\Assets\\Scripts\\UnitBrains\\Pathfinding\\NewUnitPath.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UnitBrains\\Pathfinding\\NewUnitPath.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:58:08.059Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DummyUnitPath.cs",
+              "DocumentMoniker": "E:\\Repozitorii\\NicosXYZProject\\Assets\\Scripts\\UnitBrains\\Pathfinding\\DummyUnitPath.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UnitBrains\\Pathfinding\\DummyUnitPath.cs",
+              "ToolTip": "E:\\Repozitorii\\NicosXYZProject\\Assets\\Scripts\\UnitBrains\\Pathfinding\\DummyUnitPath.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UnitBrains\\Pathfinding\\DummyUnitPath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T17:00:12.495Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseUnitPath.cs",
+              "DocumentMoniker": "E:\\Repozitorii\\NicosXYZProject\\Assets\\Scripts\\UnitBrains\\Pathfinding\\BaseUnitPath.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UnitBrains\\Pathfinding\\BaseUnitPath.cs",
+              "ToolTip": "E:\\Repozitorii\\NicosXYZProject\\Assets\\Scripts\\UnitBrains\\Pathfinding\\BaseUnitPath.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UnitBrains\\Pathfinding\\BaseUnitPath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:57:17.681Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Plates.cs",
+              "DocumentMoniker": "E:\\Repozitorii\\NicosXYZProject\\Assets\\Scripts\\UnitBrains\\Pathfinding\\Plates.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UnitBrains\\Pathfinding\\Plates.cs",
+              "ToolTip": "E:\\Repozitorii\\NicosXYZProject\\Assets\\Scripts\\UnitBrains\\Pathfinding\\Plates.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UnitBrains\\Pathfinding\\Plates.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:00:48.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "E:\\Repozitorii\\NicosXYZProject\\Assets\\Scripts\\Model\\Config\\Settings.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Model\\Config\\Settings.cs",
+              "ToolTip": "E:\\Repozitorii\\NicosXYZProject\\Assets\\Scripts\\Model\\Config\\Settings.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Model\\Config\\Settings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T16:06:00.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IReadOnlyUnit.cs",
+              "DocumentMoniker": "E:\\Repozitorii\\NicosXYZProject\\Assets\\Scripts\\Model\\Runtime\\ReadOnly\\IReadOnlyUnit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Model\\Runtime\\ReadOnly\\IReadOnlyUnit.cs",
+              "ToolTip": "E:\\Repozitorii\\NicosXYZProject\\Assets\\Scripts\\Model\\Runtime\\ReadOnly\\IReadOnlyUnit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Model\\Runtime\\ReadOnly\\IReadOnlyUnit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T19:40:56.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TimeUtil.cs",
+              "DocumentMoniker": "E:\\Repozitorii\\NicosXYZProject\\Assets\\Scripts\\Utilities\\TimeUtil.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utilities\\TimeUtil.cs",
+              "ToolTip": "E:\\Repozitorii\\NicosXYZProject\\Assets\\Scripts\\Utilities\\TimeUtil.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utilities\\TimeUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T19:37:03.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Map.cs",
+              "DocumentMoniker": "E:\\Repozitorii\\NicosXYZProject\\Assets\\Scripts\\Model\\Runtime\\Map.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Model\\Runtime\\Map.cs",
+              "ToolTip": "E:\\Repozitorii\\NicosXYZProject\\Assets\\Scripts\\Model\\Runtime\\Map.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Model\\Runtime\\Map.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T17:50:12.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Unit.cs",
               "DocumentMoniker": "E:\\Repozitorii\\NicosXYZProject\\Assets\\Scripts\\Model\\Runtime\\Unit.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Model\\Runtime\\Unit.cs",
               "ToolTip": "E:\\Repozitorii\\NicosXYZProject\\Assets\\Scripts\\Model\\Runtime\\Unit.cs",
               "RelativeToolTip": "Assets\\Scripts\\Model\\Runtime\\Unit.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAABfAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAEwBcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-09T16:41:08.153Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "UnitConfig.cs",
               "DocumentMoniker": "E:\\Repozitorii\\NicosXYZProject\\Assets\\Scripts\\Model\\Config\\UnitConfig.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Model\\Config\\UnitConfig.cs",
@@ -60,43 +197,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BaseUnitBrain.cs",
               "DocumentMoniker": "E:\\Repozitorii\\NicosXYZProject\\Assets\\Scripts\\UnitBrains\\BaseUnitBrain.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UnitBrains\\BaseUnitBrain.cs",
               "ToolTip": "E:\\Repozitorii\\NicosXYZProject\\Assets\\Scripts\\UnitBrains\\BaseUnitBrain.cs",
               "RelativeToolTip": "Assets\\Scripts\\UnitBrains\\BaseUnitBrain.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAWwKUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-09T15:29:59.577Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "ThirdUnitBrain.cs",
               "DocumentMoniker": "E:\\Repozitorii\\NicosXYZProject\\Assets\\Scripts\\UnitBrains\\Player\\ThirdUnitBrain.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UnitBrains\\Player\\ThirdUnitBrain.cs",
               "ToolTip": "E:\\Repozitorii\\NicosXYZProject\\Assets\\Scripts\\UnitBrains\\Player\\ThirdUnitBrain.cs",
               "RelativeToolTip": "Assets\\Scripts\\UnitBrains\\Player\\ThirdUnitBrain.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAmwEEAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-09T15:24:28.273Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "SecondUnitBrain.cs",
               "DocumentMoniker": "E:\\Repozitorii\\NicosXYZProject\\Assets\\Scripts\\UnitBrains\\Player\\SecondUnitBrain.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UnitBrains\\Player\\SecondUnitBrain.cs",
               "ToolTip": "E:\\Repozitorii\\NicosXYZProject\\Assets\\Scripts\\UnitBrains\\Player\\SecondUnitBrain.cs",
               "RelativeToolTip": "Assets\\Scripts\\UnitBrains\\Player\\SecondUnitBrain.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAwwJ8AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-01T06:34:18.457Z",
               "EditorCaption": ""
